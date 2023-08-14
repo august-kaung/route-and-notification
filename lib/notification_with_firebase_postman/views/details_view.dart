@@ -7,7 +7,7 @@ class DetailsView extends StatelessWidget {
   Widget build(BuildContext context) {
     return  Scaffold(
       appBar: AppBar(
-        title:const Text('Details Page'),
+        title:const Text('DETAILS  PAGE'),
       ),
     );
   }
