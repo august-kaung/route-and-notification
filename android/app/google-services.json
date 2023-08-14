@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042816259198",
+    "project_id": "local-notification-e34a7",
+    "storage_bucket": "local-notification-e34a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042816259198:android:f4d22f3b2580e47b3d742f",
+        "android_client_info": {
+          "package_name": "com.example.routing_and_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042816259198-nql2k0s3hr9mf66t8603e5e86hlp8sgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJy2YRyVmAQueZbBOsO5tuIp_oBSX7c50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042816259198-nql2k0s3hr9mf66t8603e5e86hlp8sgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
